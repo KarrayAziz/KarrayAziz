@@ -2,7 +2,7 @@
 <h3 align="center">ICT Engineering Student @ SUP'COM</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=ICT+Engineering+Student;AI/ML+Enthusiast;Aspiring+AI+Engineer+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=ICT+Engineering+Student;AI/ML+Enthusiast;Aspiring+AI+Engineer" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
