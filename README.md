@@ -2,15 +2,17 @@
 <h3 align="center">ICT Engineering Student @ SUP'COM</h3>
 
 <p align="center">
-💡 ML/AI Enthusiast | Exploring LLMs, Quantization & Fine-Tuning
+💡 ML/AI Enthusiast | Aspiring AI Engineer 
 </p>
 
 <p align="center">
 I’m passionate about Artificial Intelligence and currently diving deep into:
 <br>
-🔹 Large Language Models (LLMs)  
-🔹 Model Quantization & Optimization  
-🔹 Fine-tuning techniques (LoRA, PEFT, etc.)  
+🔹 Large Language Models (VLMs)  
+🔹 Computer Vision
+🔹 Model Quantization & Optimization 
+🔹 Fine-tuning techniques (LoRA, PEFT, etc.)
+🔹 Agentic AI
 🔹 Building AI-powered applications  
 </p>
 
@@ -41,8 +43,4 @@ I’m passionate about Artificial Intelligence and currently diving deep into:
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> </a> 
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karrayaziz&" alt="karrayaziz" />
 </p>
